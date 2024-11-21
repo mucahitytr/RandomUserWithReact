@@ -1,0 +1,22 @@
+.header{
+    background: grey;
+    width: 100%;
+    height: 50px;
+
+}
+.header_h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+.header:hover{
+    background: tomato;
+    transition: 0.7s;
+    
+}
+.header_h1:hover{
+    color:black;
+    transition: 0.7s;
+}

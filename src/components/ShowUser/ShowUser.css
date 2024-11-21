@@ -1,0 +1,14 @@
+.geneluser{
+    /* display: flex;
+    flex-direction: column; */
+}
+.picture{
+    display: inline-block;
+    flex-direction: row;
+}
+.title{
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 20px;
+    gap: 10px;
+}
